@@ -1,0 +1,2 @@
+Sue Johnson|Sue Johnson|39.00|50.00|68.00|52.33|F
+Sue Johnson|676767|40.00|30.00|60.00|43.33|F
